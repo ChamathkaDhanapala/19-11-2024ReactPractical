@@ -21,18 +21,18 @@ my-app/
 ## Installation
 
 1. Clone the repository:
-   -git clone https://github.com/ChamathkaDhanapala/19-11-2024ReactPractical
-2.Navigate to the project directory:
-   -cd myapp
+   - git clone https://github.com/ChamathkaDhanapala/19-11-2024ReactPractical
+2. Navigate to the project directory:
+   - cd myapp
 3. Install dependencies:
-   -npm install
-4.Start the development server:
-   -npm start
+   - npm install
+4. Start the development server:
+   - npm start
 
  ## Usage
--The App component initializes a state variable (childname) with a default value.
--The ChildComp component uses the setfun prop to send a message ("My Name is Bob") back to the parent.
--The parent's state updates dynamically, and the new message is displayed on the UI.
+- The App component initializes a state variable (childname) with a default value.
+- The ChildComp component uses the setfun prop to send a message ("My Name is Bob") back to the parent.
+- The parent's state updates dynamically, and the new message is displayed on the UI.
 
 ## Output
 ![Screenshot (314)](https://github.com/user-attachments/assets/ee10fe70-af3d-4623-afa7-cb30eb267441)
