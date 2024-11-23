@@ -7,16 +7,7 @@ This project demonstrates how to handle parent-child communication in React usin
 - Parent component renders a message.
 - Child component receives a function as a prop to send data back to the parent.
 - State management using `useState` to dynamically update content in the parent component based on the child's input.
-
-## File Structure
-
-my-app/         
-├── src/
-│   ├── App.js              
-│   ├── App.css 
-    ├── ChildComp.js
-├── README.md                
-├── package.json             
+         
 
 ## Installation
 
